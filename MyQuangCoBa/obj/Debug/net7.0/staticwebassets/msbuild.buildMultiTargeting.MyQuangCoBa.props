@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MyQuangCoBa.props" />
+</Project>
